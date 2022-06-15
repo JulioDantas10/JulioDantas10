@@ -7,9 +7,9 @@ Olá! Eu sou Julio Dantas!😁
 
 
 <div align="center" display="block">
-  <a href="https://github.com/juliodantas10">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliodantas10&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliodantas10&layout=compact&langs_count=7&theme=radical"/>  
+  <a href="https://github.com/JulioDantas10">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?usernameJulioDantas10&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulioDantas10&layout=compact&langs_count=7&theme=radical"/>  
 </div>
   
 <div style="display: inline_block"><br>
