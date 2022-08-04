@@ -3,7 +3,7 @@ Olá! Eu sou Julio Dantas!😁
 - 💻 Estou Cursando Sistemas De Informação.
 - 🏢 Atualmente sou estagiário de TI atuando como administrador do sistema SalesForce.
 - 🧑‍💻  Estudando: Python, JavaScript, NodeJs, HTML E CSS.
-- 👾 Conhecimentos: Basico (Java, Mysql)
+- 👾 Conhecimentos: Basico (Java, MySQL)
 
 
 <div align="center" display="block">
