@@ -1,9 +1,9 @@
 Olá! Eu sou Julio Dantas!😁
 
 - 💻 Estou Cursando Sistemas De Informação.
-- 🏢 Atualmente sou estagiário de TI atuando como administrador do sistema SalesForce.
-- 🧑‍💻  Estudando: Python, JavaScript, NodeJs, HTML E CSS.
-- 👾 Conhecimentos: Basico (Java, MySQL)
+- 🏢 Dev Junior CRM Oracle na empresa Synchro Solução Fiscal.
+- 🧑‍💻  Estudando: Python, NodeJs.
+- 👾 Conhecimentos: Basico (Java, MySQL,HTML E CSS, JavaScript)
 
 
 <div align="center" display="block">
